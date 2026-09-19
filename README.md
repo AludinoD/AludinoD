@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=360&height=44&lines=Trying%20to%20do%20better" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=360&height=44&lines=HelloWorld(%22Print%22);Trying%20to%20do%20better" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Im a Filipino college student studying **Creative Computing** and exploring the world of **Technology**, **Development**, and **Design**. I aspire to be a Front-End Web Developer someday. I work on personal projects from time to time for the fun of it.
+Im a Filipino college student studying **Creative Computing** and exploring the world of **Technology**, **Development**, and **Design**. I aspire to be a Front-End Web Developer someday. I work on personal projects from time to time for the fun of it. I also take **CS50** courses and other stuff sometimes.
 
 ⚡ &nbsp;Fun fact: **I just Code Whenever**
 
