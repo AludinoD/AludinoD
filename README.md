@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-Im a Filipino college student studying **Creative Computing** and exploring the world of **Technology**, **Development**, and **Design**. I aspire to be a Front-End Web Developer someday. I work on personal projects from time to time for the fun of it.
+I'm a Filipino college student taking **Creative Computing** and exploring the world of **Technology**, **Development**, and **Design**. I aspire to be a Front-End Web Developer someday. I work on personal projects from time to time for fun.
 
 🔭 &nbsp;I'm currently working on **Litrato | An Online Photobooth**  
-⚡ &nbsp;Fun fact: **I just Code Whenever**
+⚡ &nbsp;Fun fact: **I just code whenever**
 
 ### 🛠️ Tech Stack
 
